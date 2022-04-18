@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hyejin%20Yun&fontAlign=50&fontAlignY=40&color=gradient)
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Seongtaek%20Oh&fontAlign=50&fontAlignY=40&color=gradient)
 <h3>
    🧚‍♀️ Hi there! I'm <b>Seongtaek Oh</b><br/>
 </h3>
