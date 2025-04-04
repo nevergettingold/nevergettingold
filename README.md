@@ -4,13 +4,7 @@
 </h3>
 <br/>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnevergettingold%2Fhit-counter&count_bg=%23FC4BDE&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=nevergettingold&show_icons=true&count_private=true&line_height=24" style="width: 492px"> <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nevergettingold&layout=compact&langs_count=6">
-</p>
-
-### 💻 Skills
+### 🛠 Skills
 
 <p>
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black"> 
